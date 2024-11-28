@@ -1,5 +1,4 @@
 <h1 align="center">OPPED88</h1>
-<h3 align="center">Estudiante de Ing. Informatica.</h3>
 
 ### 🛠 &nbsp;Sobre Mi
 - 🔭 Actualmente soy Estudiante de Ing. Informatica-
