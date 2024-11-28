@@ -1,9 +1,15 @@
-## Hi there 👋
-
 <h1 align="center">OPPED88</h1>
 <h3 align="center">Estudiante de Ing. Informatica.</h3>
 
+### 🛠 &nbsp;Sobre Mi
 
+- 🔭 Actualmente soy Estudiante de Ing. Informatica-
+  
+- 🌱 Actualmente estoy aprendiendo Desarrollo Frontend.
+  
+- 🧑‍💻 Actualmente tengo 17 años de edad.
+
+### 🛠 &nbsp;Tecnologias que estoy Aprendiendo
 <!--
 **opped88/opped88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
