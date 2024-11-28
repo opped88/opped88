@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<h1 align="center">OPPED88</h1>
+<h3 align="center">Estudiante de Ing. Informatica.</h3>
+
+
 <!--
 **opped88/opped88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
